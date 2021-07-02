@@ -1,7 +1,7 @@
 {
     "name": "Background-Remover-Bot",
     "description": "A photo background remover telegram bot with pyrogram framework.",
-    "repository": "https://github.com/FayasNoushad/Remove-BG-Bot",
+    "repository": "https://github.com/Galib792/removeBG",
     "keywords": ["removebg api", "photo", "background remover","telegram bot"],
     "env": {
         "BOT_TOKEN": {
