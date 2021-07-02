@@ -22,28 +22,28 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello {}, I am a photo background remover bot. Send me a photo I will send the photo without background.
 
-Made by @FayasNoushad
+Made by @Tips_Tik
 """
 HELP_TEXT = """
 - Just send me a photo
 - I will download it
 - I will send the photo without background
 
-Made by @FayasNoushad
+Made by @Tips_Tik
 """
 ABOUT_TEXT = """
 - **Bot :** `Backround Remover Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
+- **Creator :** [Fayas](https://telegram.me/Muhammedgalib)
 - **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Remove-BG-Bot/tree/main)
+- **Source :** [Click here](https://github.com/Galib792/removeBG/tree/main)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://telegram.me/Tips_Tik'),
+        InlineKeyboardButton('Feedback', url='https://telegram.me/Muhammedgalib')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -72,7 +72,7 @@ ERROR_BUTTONS = InlineKeyboardMarkup(
     )
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Join Updates Channel', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('Join Updates Channel', url='https://telegram.me/Tips_Tik')
         ]]
     )
 
